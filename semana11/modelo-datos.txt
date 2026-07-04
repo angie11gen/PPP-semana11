@@ -1,0 +1,22 @@
+Entidad sobre la Causa
+
+puntos clave:
+- id
+- titulo
+- descripcion
+- fecha
+
+Objetivo:
+Almacenar los proyectos de la comunidad que se publicarán en la plataforma.
+
+
+Entidad de Apoyo
+
+puntos clave:
+- id
+- causa_id
+- usuario
+- fecha
+
+Objetivo:
+Contabilizar el nivel de colaboración de la comunidad.
